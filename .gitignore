@@ -1,0 +1,6 @@
+*.exp
+*.lib
+*d.exe
+*d.dll
+*d.lin
+*d.so
